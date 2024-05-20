@@ -6,4 +6,4 @@ To setup this specific project to run with GitHub Classroom Autograding you can 
 
 You should select "Run Java" as the test type.  The setup command is `mvn compile` and then run command is `mvn test`.  Change timeout down to 3-5 minutes.
 
-To see different ways to run the tests such as running only a specific test method; therefore, you could have three different tests running (one for each method) you should looking at the [GitHub Basics for Teacher Autograding Maven](LINK_HERE) Tests video.
+
